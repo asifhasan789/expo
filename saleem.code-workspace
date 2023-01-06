@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../saleem"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "expoo"
+  }
+}
